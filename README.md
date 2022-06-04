@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @yanru4642, a college student form Taiwan.
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C++
+- 📫 alan82469173@gmail.com
 - 📫 yanru4642@gmail.com
 
 <!---
